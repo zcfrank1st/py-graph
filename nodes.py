@@ -4,7 +4,7 @@ import time
 import re
 import os
 import sys
-import importlib
+import importlib.util
 import traceback
 import folder_paths
 
